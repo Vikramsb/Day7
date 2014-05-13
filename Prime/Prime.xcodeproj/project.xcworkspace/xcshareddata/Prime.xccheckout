@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3A7D7A6A-8A4E-420D-A46A-21D297DA43CD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Prime</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>52C132F4-11A8-4BFD-9E75-72042698B704</key>
+		<string>https://github.com/Vikramsb/day5.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Prime/Prime.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>52C132F4-11A8-4BFD-9E75-72042698B704</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Vikramsb/day5.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>52C132F4-11A8-4BFD-9E75-72042698B704</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>52C132F4-11A8-4BFD-9E75-72042698B704</string>
+			<key>IDESourceControlWCCName</key>
+			<string>day5</string>
+		</dict>
+	</array>
+</dict>
+</plist>
